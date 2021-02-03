@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/owner/UnityProjects/Deerskincoat-master/Deerskincoat-master/Unity/Assets/s.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
