@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3422955312
+CRC: 366087906
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2de048ee6b855a43395ef28fb26ac6e
+    Hash: 1dd034d743f4e7cb33f2391a94a2dd54
   TypeTreeHash:
     serializedVersion: 2
     Hash: ab907939c6863232414dc5a54ed0b744
@@ -32,10 +32,14 @@ ClassTypes:
 Assets:
 - Assets/InventoryGridIcons/ico_GearItem__StagToy.png
 - Assets/Prefabs/GEAR_MooseToy.prefab
+- Assets/CraftingIcons/ico_CraftItem__WolfToy.png
 - Assets/Prefabs/GEAR_StagToy.prefab
-- Assets/Localization.csv
+- Assets/CraftingIcons/ico_CraftItem__StagToy.png
 - Assets/InventoryGridIcons/ico_GearItem__WolfToy.png
 - Assets/Prefabs/GEAR_WolfToy.prefab
+- Assets/Localization.json
+- Assets/CraftingIcons/ico_CraftItem__BearToy.png
+- Assets/CraftingIcons/ico_CraftItem__MooseToy.png
 - Assets/InventoryGridIcons/ico_GearItem__MooseToy.png
 - Assets/Prefabs/GEAR_BearToy.prefab
 - Assets/InventoryGridIcons/ico_GearItem__BearToy.png

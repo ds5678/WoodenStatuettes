@@ -1,0 +1,50 @@
+﻿{
+    "GAMEPLAY_MooseToy" : {
+                            "English" : "Moose statue",
+                            "German" : "elch spielzeug",
+                            "Russian" : "Статуэтка лося"
+    },
+    "GAMEPLAY_MooseToyDescription" : {
+                            "English" : "Wooden moose satue. Hard and diligent work. Decorate your place and spend some time.",
+                            "German" : "holzerne Statue Elch",
+                            "Russian" : "Деревянная статуэтка медведя. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время"
+    },
+    "GAMEPLAY_BearToy" : {
+                            "English" : "Bear statue",
+                            "German" : "B?r Spielzeu",
+                            "Russian" : "Статуэтка медведя"
+    },
+    "GAMEPLAY_BearToyDescription" : {
+                            "English" : "Bear wooden scupture. Hard and diligent work. Decorate your place and spend some time.",
+                            "German" : "Holzspielzeug Bor",
+                            "Russian" : "Деревянная статуэтка медведя. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время"
+    },
+    "GAMEPLAY_StagToy" : {
+                            "English" : "Stag statue",
+                            "German" : "Hirsch Spielzeug",
+                            "Russian" : "Статуэтка оленя"
+    },
+    "GAMEPLAY_StagToyDescription" : {
+                            "English" : "Stag wooden scupture.  Hard and diligent work. Decorate your place and spend some time.",
+                            "German" : "Holzspielzeug Hirsch",
+                            "Russian" : "Деревянная статуэтка оленя. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время"
+    },
+    "GAMEPLAY_WolfToy" : {
+                            "English" : "Wolf statue",
+                            "German" : "Wolf Spielzeug",
+                            "Russian" : "Статуэтка волка"
+    },
+    "GAMEPLAY_WolfToyDescription" : {
+                            "English" : "Wolf wooden statue. Hard and diligent work. Decorate your place and spend some time.",
+                            "German" : "Holzspielzeug Wolf",
+                            "Russian" : "Деревянная статуэтка волка. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время"
+    },
+    "GAMEPLAY_FoxToy" : {
+                            "English" : "Fox statue",
+                            "German" : "Fox Spielzeug"
+    },
+    "GAMEPLAY_FoxToyDescription" : {
+                            "English" : "Fox wooden statue. Hard and diligent work. Decorate your place and spend some time.",
+                            "German" : "Holzspielzeug Fox"
+    }
+}
