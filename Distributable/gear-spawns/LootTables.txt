@@ -1,0 +1,25 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=BearToy w=1
+item=WolfToy w=1
+item=MooseToy w=1
+item=StagToy w=1
+
+
+#---------------
+loottable=Locker
+#---------------
+item=BearToy w=1
+item=WolfToy w=1
+item=MooseToy w=1
+item=StagToy w=1
+
+
+#-------------------------
+loottable=Wardrobe_regular
+#-------------------------
+item=BearToy w=1
+item=WolfToy w=1
+item=MooseToy w=1
+item=StagToy w=1
