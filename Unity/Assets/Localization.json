@@ -3,68 +3,56 @@
                             "English" : "Moose Statue",
                             "German" : "elch spielzeug",
                             "Russian" : "Статуэтка лося",
-							"Polish" : "Statuetka łosia",
+                            "Polish" : "Statuetka łosia",
                             "French (France)" : "Statuette d'élan"
     },
     "GAMEPLAY_MooseToyDescription" : {
                             "English" : "Wooden moose sculpture. Hard and diligent work. Decorate your place and spend some time.",
                             "German" : "holzerne Statue Elch",
                             "Russian" : "Деревянная статуэтка медведя. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время",
-							"Polish" : "Drewniana statuetka łosia. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
+                            "Polish" : "Drewniana statuetka łosia. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
                             "French (France)" : "Sculpture d'élan en bois. Du beau travail. Décorez votre maison et passez du temps."
     },
     "GAMEPLAY_BearToy" : {
                             "English" : "Bear Statue",
                             "German" : "B?r Spielzeu",
                             "Russian" : "Статуэтка медведя",
-							"Polish" : "Statuetka dzika",
+                            "Polish" : "Statuetka dzika",
                             "French (France)" : "Statuette d'ours"
     },
     "GAMEPLAY_BearToyDescription" : {
                             "English" : "Bear wooden sculpture. Hard and diligent work. Decorate your place and spend some time.",
                             "German" : "Holzspielzeug Bor",
                             "Russian" : "Деревянная статуэтка медведя. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время",
-							"Polish" : "Drewniana statuetka dzika. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
+                            "Polish" : "Drewniana statuetka dzika. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
                             "French (France)" : "Sculpture d'élan en bois. Du beau travail. Décorez votre maison et passez du temps."
     },
     "GAMEPLAY_StagToy" : {
                             "English" : "Stag Statue",
                             "German" : "Hirsch Spielzeug",
                             "Russian" : "Статуэтка оленя",
-							"Polish" : "Statuetka jelenia",
+                            "Polish" : "Statuetka jelenia",
                             "French (France)" : "Statuette de cerf"
     },
     "GAMEPLAY_StagToyDescription" : {
                             "English" : "Stag wooden sculpture.  Hard and diligent work. Decorate your place and spend some time.",
                             "German" : "Holzspielzeug Hirsch",
                             "Russian" : "Деревянная статуэтка оленя. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время",
-							"Polish" : "Drewniana statuetka jelenia. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
+                            "Polish" : "Drewniana statuetka jelenia. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
                             "French (France)" : "Sculpture de cerf en bois. Du beau travail. Décorez votre maison et passez du temps."
     },
     "GAMEPLAY_WolfToy" : {
                             "English" : "Wolf Statue",
                             "German" : "Wolf Spielzeug",
                             "Russian" : "Статуэтка волка",
-							"Polish" : "Statuetka wilka",
+                            "Polish" : "Statuetka wilka",
                             "French (France)" : "Statuette de loup"
     },
     "GAMEPLAY_WolfToyDescription" : {
                             "English" : "Wolf wooden sculpture. Hard and diligent work. Decorate your place and spend some time.",
                             "German" : "Holzspielzeug Wolf",
                             "Russian" : "Деревянная статуэтка волка. Тяжелая и кропотливая работа. Возможность украсить дом и скоротать время",
-							"Polish" : "Drewniana statuetka wilka. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
+                            "Polish" : "Drewniana statuetka wilka. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
                             "French (France)" : "Sculpture de loup en bois. Du beau travail. Décorez votre maison et passez du temps."
-    },
-    "GAMEPLAY_FoxToy" : {
-                            "English" : "Fox Statue",
-                            "German" : "Fox Spielzeug",
-							"Polish" : "Statuetka lisa",
-                            "French (France)" : "Statuette de renard"
-    },
-    "GAMEPLAY_FoxToyDescription" : {
-                            "English" : "Fox wooden sculpture. Hard and diligent work. Decorate your place and spend some time.",
-                            "German" : "Holzspielzeug Fox",
-							"Polish" : "Drewniana statuetka lisa. Wymaga trudnej i precyzyjnej pracy. Spędź trochę czasu by ozdobić swoje schronienie.",
-                            "French (France)" : "Sculpture de renard en bois. Du beau travail. Décorez votre maison et passez du temps."
     }
 }

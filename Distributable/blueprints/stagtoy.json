@@ -1,5 +1,5 @@
 {
-    "@type": "ModComponentAPI.ModBlueprint",
+    "Name": "StagToy",
     "RequiredGear": ["GEAR_Hardwood"],
     "RequiredGearUnits": [1],
     "KeroseneLitersRequired": 0,

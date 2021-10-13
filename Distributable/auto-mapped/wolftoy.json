@@ -21,10 +21,11 @@
                                 "NormalModel" : "",
                                 "InspectModel" : ""
                             },
-    "ModBurnableComponent": {
+    "ModBurnableBehaviour": {
                                 "BurningMinutes" : 1,
                                 "BurningMinutesBeforeAllowedToAdd" : 0,
                                 "SuccessModifier" : 0,
-                                "TempIncrease" : 0.5
+                                "TempIncrease" : 0.5,
+                                "DurationOffset" : 0
                             }
 }
