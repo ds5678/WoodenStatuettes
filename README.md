@@ -19,14 +19,11 @@ Here is a list of the [Localizations](https://github.com/ds5678/ModComponent/wik
 
 Here is the [localization file](https://github.com/ds5678/WoodenStatuettes/blob/master/Unity/Assets/Localization.json) for Wooden Statuettes.
 
-If you send me your translations, I'll update and add them to the mod so that more people can enjoy it in their native language.
+If you pull request your translations, I'll update and add them to the mod so that more people can enjoy it in their native language.
 
 ## Installation
 
-1. If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
-2. If you haven't done so already, download the latest version of `ModComponent.dll` from its [releases page](https://github.com/ds5678/ModComponent/releases)
-3. Download the latest version of `ModSettings.dll` from its [release page](https://github.com/zeobviouslyfakeacc/ModSettings/releases).
-4. Move `ModComponent.dll` and `ModSettings.dll` into the Mods folder in your TLD install directory.
-5. Run The Long Dark once. It should generate a subfolder in your mods folder.
-6. Download `WoodenStatuettes.modcomponent` from the [releases page](https://github.com/ds5678/WoodenStatuettes/releases)
-7. Move `WoodenStatuettes.modcomponent` into the `ModComponentZips` folder within your mods folder.
+* If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
+* If you haven't done so already, install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
+* Download `WoodenStatuettes.modcomponent` from the [releases page](https://github.com/ds5678/WoodenStatuettes/releases)
+* Move `WoodenStatuettes.modcomponent` into your mods folder.
